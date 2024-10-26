@@ -1,0 +1,10 @@
+     /* Simple styling */
+     #cityList {
+        list-style-type: none;
+        padding: 0;
+    }
+    #cityList li {
+        padding: 5px;
+        background-color: #f0f0f0;
+        margin: 5px 0;
+    }
